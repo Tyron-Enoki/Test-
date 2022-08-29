@@ -6,6 +6,9 @@ body {
   background-color: blue;
   display: flex;
 }
+h1 {
+  color: blue;
+}
 p {
   color: wheat;
 }
